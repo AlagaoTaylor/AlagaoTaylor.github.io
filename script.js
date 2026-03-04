@@ -91,7 +91,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const connects = [
             {
                 name: "LinkedIn",
-                link: "https://linkedin.com/taylor-alagao",
+                link: "https://linkedin.com/in/taylor-alagao",
                 image: "social_icons/LinkedIn_icon.png"
             }
         ];
